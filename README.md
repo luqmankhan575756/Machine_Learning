@@ -3,17 +3,15 @@ A hands-on Machine Learning learning repository containing practical Jupyter not
 
 The goal of this repository is to move from ML fundamentals → individual algorithms → ensemble methods → boosting → practical model building.
 
-🗂️ Repository Structure
-
 Machine-Learning/
 │
-├── 📈 Regression
+├── Regression/
 │   ├── Linear_regression_model.ipynb
 │   ├── Multiple_linear_regression.ipynb
 │   └── Polynomial_Regression.ipynb
 │
-├── 🎯 Classification
-│   ├── Logistic regression model.ipynb
+├── Classification/
+│   ├── Logistic_regression_model.ipynb
 │   ├── KNN.ipynb
 │   ├── KNN_classifier_digits(0-9).ipynb
 │   ├── SVM.ipynb
@@ -21,26 +19,34 @@ Machine-Learning/
 │   ├── Naive_bayes.ipynb
 │   └── Naive_Bayes_model_play_tennis.ipynb
 │
-├── 🌳 Decision Trees
+├── Decision_Trees/
 │   ├── Decision_tree_classification.ipynb
 │   ├── Decision_tree_classification_part2.ipynb
-│   └── dtreeviz library.ipynb
+│   └── dtreeviz_library.ipynb
 │
-├── 🤝 Ensemble Learning
+├── Ensemble_Learning/
 │   ├── Bagging_classifier.ipynb
 │   ├── Bagging_Regression.ipynb
 │   ├── OOB_score.ipynb
 │   ├── Random_forest_concepts.ipynb
-│   ├── Random_forest_How_to_apply_on_problem....ipynb
+│   ├── Random_forest_How_to_apply_on_problem.ipynb
 │   ├── Voting_Ensemble_classifier_EL.ipynb
 │   └── Voting_Ensemble_Regression_EL.ipynb
 │
-├── 🚀 Boosting
+├── Boosting/
 │   ├── Adaboost.ipynb
 │   ├── adaboost-hyperparameter.ipynb
 │   ├── Gradient_boosting.ipynb
 │   ├── XGBoost.Classification.ipynb
 │   └── LightGBM.ipynb
+│
+└── Datasets/
+    ├── heart.csv
+    ├── Iris.csv
+    ├── play_tennis.csv
+    ├── salary_data.csv
+    ├── Social_Network_Ads.csv
+    └── titanic.csv
 │
 └── 📁 Datasets
     ├── heart.csv
