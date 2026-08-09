@@ -3,12 +3,90 @@ A hands-on Machine Learning learning repository containing practical Jupyter not
 
 The goal of this repository is to move from ML fundamentals → individual algorithms → ensemble methods → boosting → practical model building.
 
+🧠 Topics Covered
+
+📈 Regression
+
+Linear Regression
+
+Multiple Linear Regression
+
+Polynomial Regression
+
+🎯 Classification
+
+Logistic Regression
+
+K-Nearest Neighbors (KNN)
+
+Naive Bayes
+
+Support Vector Machine (SVM)
+
+Decision Tree Classification
+
+🌳 Decision Trees
+
+Decision Tree Classification
+
+Tree visualization
+
+dtreeviz
+
+Decision Tree concepts
+
+Overfitting and tree complexity
+
+🤝 Ensemble Learning
+
+Bagging
+
+Out-of-Bag (OOB) Score
+
+Random Forest
+
+Voting Ensemble
+
+Ensemble Regression
+
+Ensemble Classification
+
+🚀 Boosting
+
+AdaBoost
+
+AdaBoost Hyperparameter Tuning
+
+Gradient Boosting
+
+XGBoost
+
+LightGBM
+
+⚙️ Model Improvement
+
+Train/Test Split
+
+Cross Validation
+
+Hyperparameter Tuning
+
+Model Comparison
+
+Overfitting vs Underfitting
+
+Bias vs Variance
+
+
+
 Machine-Learning/
 │
 ├── Regression/
 
 │   ├── Linear_regression_model.ipynb
+
 │   ├── Multiple_linear_regression.ipynb
+
 │   └── Polynomial_Regression.ipynb
 │
 
