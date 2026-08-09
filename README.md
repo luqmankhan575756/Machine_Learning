@@ -6,10 +6,12 @@ The goal of this repository is to move from ML fundamentals → individual algor
 Machine-Learning/
 │
 ├── Regression/
+
 │   ├── Linear_regression_model.ipynb
 │   ├── Multiple_linear_regression.ipynb
 │   └── Polynomial_Regression.ipynb
 │
+
 ├── Classification/
 │   ├── Logistic_regression_model.ipynb
 │   ├── KNN.ipynb
@@ -19,11 +21,13 @@ Machine-Learning/
 │   ├── Naive_bayes.ipynb
 │   └── Naive_Bayes_model_play_tennis.ipynb
 │
+
 ├── Decision_Trees/
 │   ├── Decision_tree_classification.ipynb
 │   ├── Decision_tree_classification_part2.ipynb
 │   └── dtreeviz_library.ipynb
 │
+
 ├── Ensemble_Learning/
 │   ├── Bagging_classifier.ipynb
 │   ├── Bagging_Regression.ipynb
@@ -33,6 +37,7 @@ Machine-Learning/
 │   ├── Voting_Ensemble_classifier_EL.ipynb
 │   └── Voting_Ensemble_Regression_EL.ipynb
 │
+
 ├── Boosting/
 │   ├── Adaboost.ipynb
 │   ├── adaboost-hyperparameter.ipynb
@@ -40,6 +45,7 @@ Machine-Learning/
 │   ├── XGBoost.Classification.ipynb
 │   └── LightGBM.ipynb
 │
+
 └── Datasets/
     ├── heart.csv
     ├── Iris.csv
@@ -48,6 +54,8 @@ Machine-Learning/
     ├── Social_Network_Ads.csv
     └── titanic.csv
 │
+
+
 └── 📁 Datasets
     ├── heart.csv
     ├── Iris.csv
