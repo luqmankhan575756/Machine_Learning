@@ -80,14 +80,15 @@ Bias vs Variance
 
 
 Machine-Learning/
-│
+
+
 (1)├── Regression/
 
-│   ├── Linear_regression_model.ipynb
+   ├── Linear_regression_model.ipynb
 
-│   ├── Multiple_linear_regression.ipynb
+   ├── Multiple_linear_regression.ipynb
 
-│   └── Polynomial_Regression.ipynb
+   └── Polynomial_Regression.ipynb
 
 
 (2)├── Classification/
@@ -110,7 +111,9 @@ Machine-Learning/
 
 (3) Decision_Trees/
    ├── Decision_tree_classification.ipynb
+   
    ├── Decision_tree_classification_part2.ipynb
+   
    └── dtreeviz_library.ipynb
 
 
@@ -131,12 +134,18 @@ Machine-Learning/
    └── Voting_Ensemble_Regression_EL.ipynb
 
 
-(5) Boosting/
+(5) Boosting
+
    ├── Adaboost.ipynb
+   
    ├── adaboost-hyperparameter.ipynb
+   
    ├── Gradient_boosting.ipynb
+   
    ├── XGBoost.Classification.ipynb
+   
    └── LightGBM.ipynb
+   
 
 (6) Datasets/
 
@@ -151,7 +160,7 @@ Machine-Learning/
 ├── Social_Network_Ads.csv
 
 └── titanic.csv
-│
+
 
 
 
