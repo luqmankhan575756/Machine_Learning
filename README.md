@@ -7,13 +7,13 @@ The goal of this repository is to move from ML fundamentals → individual algor
 
 📈 Regression
 
-Linear Regression
+Linear Regression.
 
-Multiple Linear Regression
+Multiple Linear Regression.
 
-Polynomial Regression
+Polynomial Regression.
 
-🎯 Classification
+🎯 Classification.
 
 Logistic Regression
 
