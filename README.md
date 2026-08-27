@@ -237,12 +237,12 @@ LightGBM
 
           ↓
           
-Hyperparameter Tuning
+Hyperparameter Tuning.
 
           ↓
           
-Cross Validation
+Cross Validation.
 
           ↓
           
-Real-world ML Projects
+Real-world ML Projects.
