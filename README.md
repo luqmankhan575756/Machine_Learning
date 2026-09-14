@@ -29,21 +29,21 @@ Decision Tree Classification
 
 Decision Tree Classification
 
-Tree visualization
+Tree visualization.
 
-dtreeviz
+dtreeviz.
 
-Decision Tree concepts
+Decision Tree concepts.
 
 Overfitting and tree complexity
 
-🤝 Ensemble Learning
+🤝 Ensemble Learning.
 
-Bagging
+Bagging.
 
-Out-of-Bag (OOB) Score
+Out-of-Bag (OOB) Score.
 
-Random Forest
+Random Forest.
 
 Voting Ensemble
 
