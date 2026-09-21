@@ -15,11 +15,11 @@ Polynomial Regression.
 
 🎯 Classification.
 
-Logistic Regression
+Logistic Regression.
 
 K-Nearest Neighbors (KNN)
 
-Naive Bayes
+Naive Bayes.
 
 Support Vector Machine (SVM)
 
