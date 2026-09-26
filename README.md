@@ -23,11 +23,11 @@ Naive Bayes.
 
 Support Vector Machine (SVM)
 
-Decision Tree Classification
+Decision Tree Classification.
 
-🌳 Decision Trees
+🌳 Decision Trees.
 
-Decision Tree Classification
+Decision Tree Classification.
 
 Tree visualization.
 
@@ -35,7 +35,7 @@ dtreeviz.
 
 Decision Tree concepts.
 
-Overfitting and tree complexity
+Overfitting and tree complexity.
 
 🤝 Ensemble Learning.
 
@@ -45,11 +45,11 @@ Out-of-Bag (OOB) Score.
 
 Random Forest.
 
-Voting Ensemble
+Voting Ensemble.
 
-Ensemble Regression
+Ensemble Regression.
 
-Ensemble Classification
+Ensemble Classification.
 
 🚀 Boosting
 
