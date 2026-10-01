@@ -1,4 +1,4 @@
-# Machine_Learning Models : 
+ko# Machine_Learning Models : 
 A hands-on Machine Learning learning repository containing practical Jupyter notebooks, datasets, implementations, experiments, and concepts covering supervised learning, ensemble learning, model evaluation, and hyperparameter tuning.
 
 The goal of this repository is to move from ML fundamentals → individual algorithms → ensemble methods → boosting → practical model building.
@@ -51,17 +51,17 @@ Ensemble Regression.
 
 Ensemble Classification.
 
-🚀 Boosting
+🚀 Boosting.
 
-AdaBoost
+AdaBoost.
 
-AdaBoost Hyperparameter Tuning
+AdaBoost Hyperparameter Tuning.
 
-Gradient Boosting
+Gradient Boosting.
 
-XGBoost
+XGBoost.
 
-LightGBM
+LightGBM.
 
 ⚙️ Model Improvement
 
