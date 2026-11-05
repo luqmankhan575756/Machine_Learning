@@ -1,9 +1,9 @@
-ko# Machine_Learning Models : 
+# Machine_Learning Models :
 A hands-on Machine Learning learning repository containing practical Jupyter notebooks, datasets, implementations, experiments, and concepts covering supervised learning, ensemble learning, model evaluation, and hyperparameter tuning.
 
 The goal of this repository is to move from ML fundamentals → individual algorithms → ensemble methods → boosting → practical model building.
 
-🧠 Topics Covered
+🧠 Topics Covered.
 
 📈 Regression
 
