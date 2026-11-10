@@ -63,11 +63,11 @@ XGBoost.
 
 LightGBM.
 
-⚙️ Model Improvement
+⚙️ Model Improvement.
 
-Train/Test Split
+Train/Test Split.
 
-Cross Validation
+Cross Validation.
 
 Hyperparameter Tuning
 
