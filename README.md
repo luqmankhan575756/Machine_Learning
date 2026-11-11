@@ -69,17 +69,17 @@ Train/Test Split.
 
 Cross Validation.
 
-Hyperparameter Tuning
+Hyperparameter Tuning.
 
-Model Comparison
+Model Comparison.
 
-Overfitting vs Underfitting
+Overfitting vs Underfitting.
 
-Bias vs Variance
+Bias vs Variance.
 
 
 
-Machine-Learning/
+Machine-Learning
 
 
 (1)├── Regression/
